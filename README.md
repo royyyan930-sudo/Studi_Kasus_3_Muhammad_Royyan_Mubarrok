@@ -8,7 +8,8 @@ Nim :2609116005
 
 <img width="388" height="101" alt="Screenshot 2026-09-08 204823" src="https://github.com/user-attachments/assets/de61fe47-4f38-4140-bfd5-5f79a6fe5eff" />
 
-<img width="458" height="340" alt="Screenshot 2026-09-08 204944" src="https://github.com/user-attachments/assets/69669346-625c-4855-b708-a08a0e3ae00d" />
+<img width="518" height="381" alt="image" src="https://github.com/user-attachments/assets/9b7173a0-48d3-48a7-9023-86667903c6d6" />
+
 
 buku_perpustakaan adalah list yang menyimpan judul buku.
 
