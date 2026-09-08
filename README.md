@@ -10,12 +10,25 @@ Nim :2609116005
 
 <img width="458" height="340" alt="Screenshot 2026-09-08 204944" src="https://github.com/user-attachments/assets/69669346-625c-4855-b708-a08a0e3ae00d" />
 
+buku_perpustakaan adalah list yang menyimpan judul buku.
+
+i + 1 → supaya nomor yang tampil dimulai dari 1, bukan 0.
+
 list → menyimpan buku
+
 input() → menerima pilihan pengguna
+
 if-else → mengecek kondisi
+
 for → melakukan perulangan
+
 while → mengulang input
+
+while True → membuat program terus meminta input.
+
 append() → menambahkan buku
+
 remove() → menghapus buku
+
 break → menghentikan perulangan
 
